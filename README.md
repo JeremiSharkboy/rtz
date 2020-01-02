@@ -1,5 +1,5 @@
 # rtz
-This is rar to zip tool writed on .net core
+This is rar to zip tool . Created in 5 min's, for using instead of winrar
 
 Simply to use:
  
